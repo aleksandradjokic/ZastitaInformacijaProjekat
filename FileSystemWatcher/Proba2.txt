@@ -1,0 +1,1 @@
+To decrypt a double transposition, construct a block with the right number of rows under the keyword, 
